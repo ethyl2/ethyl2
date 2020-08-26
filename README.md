@@ -14,8 +14,9 @@
 
 🙏 _Thank you in advance for any connections, advice, or opportunities you can offer._
 
-![Lambda Badge](images/LambdaBadge2.png)
+<!--![Lambda Badge](images/LambdaBadge2.png)
 
+-->
 <!--
 **ethyl2/ethyl2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
