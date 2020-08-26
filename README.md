@@ -14,9 +14,7 @@
 
 🙏 _Thank you in advance for any connections, advice, or opportunities you can offer._
 
-<a href="https://www.youracclaim.com/badges/25a7471a-afad-44fb-8da8-5d9f3ea93f39/public_url">
-<img src='images/LambdaBadge.png' width=200 align=left>
-</a>
+![Lambda Badge](images/LambdaBadge2.png)
 
 <!--
 **ethyl2/ethyl2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
