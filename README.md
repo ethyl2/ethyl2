@@ -58,9 +58,3 @@
     <td>🧺 And more!</td> 
     </tr> 
 </table>
-
-## Get in Touch
-
-🖍️ [Portfolio](https://www.heathernuffer.com/)  
-🔗 [LinkedIn](https://www.linkedin.com/in/heather-nuffer/)  
-🐦 [Twitter](https://twitter.com/ethyl22000)
