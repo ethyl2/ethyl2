@@ -30,7 +30,7 @@
 
 <table border="0">
  <tr>
-    <td><b style="font-size:20px">My Skills </b></td>
+    <td><b style="font-size:28px">My Skills </b></td>
  </tr>
  <tr>
     <td>🕸️ HTML5 & CSS3</td>
