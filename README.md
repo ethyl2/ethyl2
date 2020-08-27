@@ -1,5 +1,7 @@
 # Heather Nuffer&#8212;@ethyl2
 
+![logo](images/tree3.png)
+
 ## 👋 Hi, I'm Heather.
 
 👩 I am a web developer who fuses a background in science 🧪 and the arts 🎨, with attention to detail and design, to deliver quality websites and applications.
@@ -52,8 +54,6 @@
 🖍️ [Portfolio](https://www.heathernuffer.com/)  
 🔗 [LinkedIn](https://www.linkedin.com/in/heather-nuffer/)  
 🐦 [Twitter](https://twitter.com/ethyl22000)
-
-<img src='LambdaBadge2.png' />
 
 <!--
 **ethyl2/ethyl2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
