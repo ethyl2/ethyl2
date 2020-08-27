@@ -12,9 +12,9 @@
 
 🙏 _Thank you in advance for any connections, advice, or opportunities you can offer._
 
-<!--![Lambda Badge](images/LambdaBadge2.png)
+## Get in Touch
 
--->
+🖍️ [Portfolio](https://www.heathernuffer.com/) | 🔗 [LinkedIn](https://www.linkedin.com/in/heather-nuffer/) | 🐦 [Twitter](https://twitter.com/ethyl22000)
 
 ---
 
@@ -58,8 +58,6 @@
     <td>🧺 And more!</td> 
     </tr> 
 </table>
-
----
 
 ## Get in Touch
 
