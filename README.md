@@ -1,7 +1,5 @@
 # Heather Nuffer&#8212;@ethyl2
 
-![logo](images/tree3.png)
-
 ## 👋 Hi, I'm Heather.
 
 👩 I am a web developer who fuses a background in science 🧪 and the arts 🎨, with attention to detail and design, to deliver quality websites and applications.
@@ -55,17 +53,36 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/heather-nuffer/)  
 🐦 [Twitter](https://twitter.com/ethyl22000)
 
-<!--
-**ethyl2/ethyl2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">My Skills </b></td>
+ </tr>
+ <tr>
+    <td>🕸️ HTML5 & CSS3</td>
+    <td>⚙️ Redux & Context API</td> 
+    <td>🔒 Authentication</td>
+    </tr>
+    <tr>   
+    <td>🌺 LESS & SASS</td>
+    <td>✅ Form validation</td> 
+    <td>📱 Responsive Design</td>
+    </tr>
+    <tr>   
+    <td>⚒️ JavaScript </td>
+    <td>💠 Node.js</td>
+    <td>📤 SQL</td> 
+    </tr>
+    <tr>   
+    <td>🐍 Python</td>
+    <td>💨 Express.js</td>
+    <td>😺 Git/GitHub</td> 
+    </tr>
+    <tr>   
+    <td>🗜️ React </td>
+    <td>🔑 JSON Web Tokens</td>
+    <td>🧺 And more!</td> 
+    </tr>
+    
+    
+ 
+</table>
