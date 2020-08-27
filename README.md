@@ -28,34 +28,9 @@
 
 ---
 
-## My Skills
-
-🕸️ HTML5 & CSS3  
-🌺 LESS & SASS  
-⚒️ JavaScript  
-🐍 Python  
-🗜️ React  
-⚙️ Redux & Context API  
-✅ Form validation  
-💠 Node.js  
-💨 Express.js  
-🔑 JSON Web Tokens  
-🔒 Authentication  
-📤 SQL  
-😺 Git/GitHub  
-🧺 And more!
-
----
-
-## Get in Touch
-
-🖍️ [Portfolio](https://www.heathernuffer.com/)  
-🔗 [LinkedIn](https://www.linkedin.com/in/heather-nuffer/)  
-🐦 [Twitter](https://twitter.com/ethyl22000)
-
 <table border="0">
  <tr>
-    <td><b style="font-size:30px">My Skills </b></td>
+    <td><b style="font-size:20px">My Skills </b></td>
  </tr>
  <tr>
     <td>🕸️ HTML5 & CSS3</td>
@@ -81,8 +56,13 @@
     <td>🗜️ React </td>
     <td>🔑 JSON Web Tokens</td>
     <td>🧺 And more!</td> 
-    </tr>
-    
-    
- 
+    </tr> 
 </table>
+
+---
+
+## Get in Touch
+
+🖍️ [Portfolio](https://www.heathernuffer.com/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/heather-nuffer/)  
+🐦 [Twitter](https://twitter.com/ethyl22000)
