@@ -53,7 +53,7 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/heather-nuffer/)  
 🐦 [Twitter](https://twitter.com/ethyl22000)
 
-![Lambda Badge](/LambdaBadge2.png)
+<img src='LambdaBadge2.png' />
 
 <!--
 **ethyl2/ethyl2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
