@@ -52,7 +52,7 @@
     <td>😺 Git/GitHub</td> 
     </tr>
     <tr>   
-    <td>🗜️ React </td>
+    <td>🗜️ React & Vue</td>
     <td>🔑 JSON Web Tokens</td>
     <td>🧺 And more!</td> 
     </tr> 
