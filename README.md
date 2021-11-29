@@ -8,7 +8,7 @@
 
 ## More About Me
 
-🧠 I love learning about new technologies and enjoy teaching others what I learn. I'm known for a strong work ethic, dependability, and effective team collaboration. I am excited to keep progressing in my career and look forward to opportunities which will allow me to improve my skills. 🎓 I graduated from the full-stack web development program at [Lambda School](https://lambdaschool.com/). I also have a BS in microbiology from [Brigham Young University](https://mmbio.byu.edu/).
+🧠 I love learning about new technologies and enjoy teaching others what I learn. I'm known for a strong work ethic, dependability, and effective team collaboration. I am excited to keep progressing in my career and look forward to opportunities which will allow me to improve my skills. 🎓 I graduated from the full-stack web development program at Lambda School, now [Bloom Institute of Technology](https://www.bloomtech.com/). I also have a BS in microbiology from [Brigham Young University](https://mmbio.byu.edu/).
 
 
 ## Get in Touch
