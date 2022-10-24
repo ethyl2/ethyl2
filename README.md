@@ -36,6 +36,11 @@
     <td>⚙️ Redux & Context API</td> 
     <td>🔒 Authentication</td>
     </tr>
+   <tr>   
+    <td>❓ PHP</td>
+    <td>🟥 Laravel</td> 
+    <td>🌊 Tailwind.css</td>
+    </tr>
     <tr>   
     <td>🌺 LESS & SASS</td>
     <td>✅ Form validation</td> 
